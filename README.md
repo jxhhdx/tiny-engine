@@ -51,7 +51,7 @@ $ pnpm dev
 ### Materials Synchronization [Solution](https://opentiny.design/tiny-engine#/help-center/course/engine/56)
 
 ```sh
-$ pnpm splitMaterials1
+$ pnpm splitMaterials
 ```
 
 ```sh
